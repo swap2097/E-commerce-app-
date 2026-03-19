@@ -3,7 +3,7 @@
 ## 🚀 Features
 - User authentication
 - Add to cart
-- Payment integration (Razorpay)
+- Payment integration 
 - Order management
 
 ## 🛠️ Tech Stack
